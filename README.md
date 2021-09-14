@@ -12,4 +12,6 @@ step process.
 for software and hardware bundling and pricing formats, from whether or not
 proprietary or third party software would come preinstalled with the purchase
 of a personal computer, to initially-closed development ecosystems being opened
-to third party develops (in the context of Apple's iOS sandbox)
+to third party develops (in the context of Apple's iOS sandbox).
+
+  d 
