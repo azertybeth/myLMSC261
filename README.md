@@ -14,4 +14,7 @@ proprietary or third party software would come preinstalled with the purchase
 of a personal computer, to initially-closed development ecosystems being opened
 to third party develops (in the context of Apple's iOS sandbox).
 
-  d 
+  Following the same concept of dissecting things commonly taken for granted or
+assumed to be simpler than they actually are, the article discusses how web
+pages in and of themselves can and do contain software—how social media itself
+is built from a complex web of code.
