@@ -13,3 +13,4 @@ Struggles:
 a line break. upon cursory examination it seemed that the slash was the only
 character contributing to the line break, but after wrestling with comparing
 my code with the example, I realized that I was only using half of a command.
+After correcting my slashes to "\n", the line breaks worked as expected.
