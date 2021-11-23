@@ -10,4 +10,5 @@ Dom worked on getting an audio file into the website, and succeeded, though
 he failed at achieving forced autoplay and looping.
 I volunteered to embed a band photo into the page, and while I did download
 an image and pushed it into the resource folder, I was unable to iron out
-an error with it before time was up.
+an error with it before time was up. The issue seemed to be a misplaced
+resource, so I assume I just miscalled the img.
